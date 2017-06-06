@@ -1,6 +1,6 @@
 Code Implementation and reading note of the book [Problem Solving with Algorithms and Data Structures, Release 3.0](http://interactivepython.org/runestone/static/pythonds/index.html)
 
-`to do list`
+`To do list`
 
  - [ ] 1. Introduction
  - [ ] 2. Algorithm Analysis
