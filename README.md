@@ -5,11 +5,11 @@ Code Implementation and reading note of the book [Problem Solving with Algorithm
  - [ ] 1. Introduction
  - [ ] 2. Algorithm Analysis
  - [ ] 3. Basic Data Structures
-- [ ] Stacks
-- [ ] Queues
-- [ ] Deques
-- [ ] Lists
-- [ ] Linked List
+     - [ ] Stacks
+     - [ ] Queues
+     - [ ] Deques
+     - [ ] Lists
+     - [ ] Linked List
  - [ ] 4. Recursion
  - [ ] 5. Sorting and Searching
 - [ ] 5.1. Sorting
