@@ -2,26 +2,26 @@ Code Implementation and reading note of the book [Problem Solving with Algorithm
 
 `to do list`
 
-### 1. Introduction
-### 2. Algorithm Analysis
-### 3. Basic Data Structures
+ - [ ] 1. Introduction
+ - [ ] 2. Algorithm Analysis
+ - [ ] 3. Basic Data Structures
 - [ ] Stacks
 - [ ] Queues
 - [ ] Deques
 - [ ] Lists
 - [ ] Linked List
-### 4. Recursion
-### 5. Sorting and Searching
-#### 5.1. Sorting
-- [ ] Bubble
-- [ ] Selection
-- [ ] Insertion
-- [ ] Shell
-- [ ] Merge
-- [ ] Quick
-#### 5.2. Searching
-- [ ] Sequential Search
-- [ ] Binary Search 
-#### 5.3. Hashing
-### 6. Trees
-### 7. Graphs
+ - [ ] 4. Recursion
+ - [ ] 5. Sorting and Searching
+- [ ] 5.1. Sorting
+     - [ ] Bubble Sort
+     - [ ] Selection Sort
+     - [ ] Insertion Sort
+     - [ ] Shell Sort
+     - [ ] Merge Sort
+     - [ ] Quick Sort
+- [ ] 5.2. Searching
+     - [ ] Sequential Search
+     - [ ] Binary Search
+- [ ] 5.3. Hashing
+ - [ ] 6. Trees
+ - [ ] 7. Graphs
