@@ -22,6 +22,6 @@ Code Implementation and reading note of the book [Problem Solving with Algorithm
     - [ ] 5.2. Searching
        - [ ] Sequential Search
        - [ ] Binary Search
-- [ ] 5.3. Hashing
+    - [ ] 5.3. Hashing
  - [ ] 6. Trees
  - [ ] 7. Graphs
