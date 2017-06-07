@@ -9,8 +9,8 @@ Code Implementation and reading note of the book [Problem Solving with Algorithm
      - [x] Queues
      - [x] Deques
      - [x] Lists
-     - [ ] Linked List _**`doing`**_
- - [ ] 4. Recursion
+     - [x] Linked List
+ - [ ] 4. Recursion - _**`doing`**_
  - [ ] 5. Sorting and Searching
     - [ ] 5.1. Sorting
        - [ ] Bubble Sort
