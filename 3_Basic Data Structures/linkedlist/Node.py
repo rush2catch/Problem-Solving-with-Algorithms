@@ -15,6 +15,7 @@ class Node(object):
     def set_next(self, new_next):
         self.next = new_next
 
+"""
 obj1 = Node(93)
 print(obj1.get_data())
 print(obj1.next)
@@ -27,5 +28,5 @@ print(obj2.next)
 print(obj2.get_data())
 obj1.set_next(obj2)
 print(obj1.next)
-
+"""
 
