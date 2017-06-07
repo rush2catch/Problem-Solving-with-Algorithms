@@ -4,7 +4,7 @@ Code Implementation and reading note of the book [Problem Solving with Algorithm
 
  - [ ] 1. Introduction
  - [ ] 2. Algorithm Analysis
- - [ ] 3. Basic Data Structures
+ - [x] 3. Basic Data Structures
      - [x] Stacks
      - [x] Queues
      - [x] Deques
