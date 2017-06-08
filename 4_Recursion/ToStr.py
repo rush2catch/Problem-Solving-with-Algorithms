@@ -6,5 +6,3 @@ def toStr(n, base):
         return toStr(n//base, base) + convertString[n % base]
 
 print(toStr(1453, 10))
-
-    
