@@ -18,7 +18,7 @@ def main():
     t.backward(100)
     t.down()
     t.color("green")
-    tree(75,t)
+    tree(80,t)
     myWin.exitonclick()
 
 main()
