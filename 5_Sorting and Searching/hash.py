@@ -3,4 +3,8 @@ def hash(astring, tablesize):
     for pos in range(len(astring)):
         sum += ord(astring[pos])
 
-    return sum %  tablesize
+    return sum % tablesize
+
+s = 'abcde'
+size = 7
+print(hash(s, size))
