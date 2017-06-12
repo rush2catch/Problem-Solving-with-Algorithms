@@ -1,0 +1,12 @@
+`to do list` in this part:
+ - [x] 1. Searching
+     - [x] Sequential Search
+     - [x] Binary Search
+     - [x] Hash Map/ Hash Table
+ - [ ] 2. Sorting
+     - [ ] Bubble Sort
+     - [ ] Selection Sort
+     - [ ] Insertion Sort
+     - [ ] Shell Sort
+     - [ ] Merge Sort
+     - [ ] Quick Sort
