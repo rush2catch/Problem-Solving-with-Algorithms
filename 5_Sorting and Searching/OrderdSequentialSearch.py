@@ -1,5 +1,14 @@
 # suppose the given list is in an ascending order
 
+# -------------- time complexity analysis -------------- #
+# ------------------------------------------------------ #
+# |    Case    | Best Case | Worst Case | Average Case | #
+# ------------------------------------------------------ #
+# |item present| 1         | n          | n/2          | #
+# ------------------------------------------------------ #
+# |not present | 1         | n          | n/2          | #
+# ------------------------------------------------------ #
+
 def orderedSequentialSearch(alist, item):
     pos = 0
     found = False
