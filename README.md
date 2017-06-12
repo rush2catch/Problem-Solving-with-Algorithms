@@ -10,7 +10,7 @@ Code Implementation and reading note of the book [Problem Solving with Algorithm
      - [x] Deques
      - [x] Lists
      - [x] Linked List
- - [ ] 4. Recursion - _**`doing`**_
+ - [x] 4. Recursion
  - [ ] 5. Sorting and Searching
     - [ ] 5.1. Sorting
        - [ ] Bubble Sort
@@ -19,9 +19,9 @@ Code Implementation and reading note of the book [Problem Solving with Algorithm
        - [ ] Shell Sort
        - [ ] Merge Sort
        - [ ] Quick Sort
-    - [ ] 5.2. Searching
-       - [ ] Sequential Search
-       - [ ] Binary Search
-    - [ ] 5.3. Hashing
+    - [x] 5.2. Searching
+       - [x] Sequential Search
+       - [x] Binary Search
+    - [ ] 5.3. Hashing _**`doing`**_
  - [ ] 6. Trees
  - [ ] 7. Graphs
