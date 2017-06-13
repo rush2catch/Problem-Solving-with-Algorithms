@@ -2,7 +2,7 @@ def bubble_sort(nums):
 	if len(nums) == 0:
 		return None
 
-	for i in range(len(nums)):
+	for i in range(len(nums) - 1):
 		for j in range(len(nums) - 1):
 			if nums[j] > nums[j + 1]:
 				nums[j], nums[j + 1] = nums[j + 1], nums[j]

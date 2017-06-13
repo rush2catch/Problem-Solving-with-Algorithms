@@ -4,7 +4,7 @@
      - [x] Binary Search
      - [x] Hash Map/ Hash Table
  - [ ] 2. Sorting
-     - [ ] Bubble Sort
+     - [x] Bubble Sort
      - [ ] Selection Sort
      - [ ] Insertion Sort
      - [ ] Shell Sort
