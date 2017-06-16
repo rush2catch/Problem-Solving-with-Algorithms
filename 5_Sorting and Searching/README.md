@@ -6,7 +6,7 @@
  - [ ] 2. Sorting
      - [x] Bubble Sort
      - [ ] Selection Sort
-     - [ ] Insertion Sort
+     - [x] Insertion Sort
      - [ ] Shell Sort
      - [ ] Merge Sort
      - [ ] Quick Sort
