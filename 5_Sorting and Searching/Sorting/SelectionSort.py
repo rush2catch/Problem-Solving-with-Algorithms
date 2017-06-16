@@ -3,7 +3,8 @@ def selection_sort(nums):
 
 	pos = len(nums) - 1
 	currentMax = 0
-	cursor = len(nums)
+	cursor = 0
+	loop_ct = 1
 	for n in range(len(nums)):
 
 		for i in range(pos):
@@ -14,7 +15,10 @@ def selection_sort(nums):
 		nums[pos] = currentMax
 		pos -= 1
 		currentMax = 0
-		cursor = len(nums)
+		cursor = 0
+		print("-"*5,loop_ct,"-"*5)
+		loop_ct += 1
+		print(nums)
 
 	return nums
 
