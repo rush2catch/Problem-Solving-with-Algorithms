@@ -13,9 +13,9 @@ Code Implementation and reading note of the book [Problem Solving with Algorithm
  - [x] 4. Recursion
  - [ ] 5. Sorting and Searching
     - [ ] 5.1. Sorting
-       - [ ] Bubble Sort
+       - [x] Bubble Sort
        - [ ] Selection Sort
-       - [ ] Insertion Sort
+       - [x] Insertion Sort
        - [ ] Shell Sort
        - [ ] Merge Sort
        - [ ] Quick Sort
