@@ -5,7 +5,7 @@
      - [x] Hash Map/ Hash Table
  - [ ] 2. Sorting
      - [x] Bubble Sort
-     - [ ] Selection Sort
+     - [x] Selection Sort
      - [x] Insertion Sort
      - [ ] Shell Sort
      - [ ] Merge Sort
