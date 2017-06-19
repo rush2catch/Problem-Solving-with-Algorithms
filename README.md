@@ -14,7 +14,7 @@ Code Implementation and reading note of the book [Problem Solving with Algorithm
  - [ ] 5. Sorting and Searching
     - [ ] 5.1. Sorting - _**`doing`**_
        - [x] Bubble Sort
-       - [ ] Selection Sort
+       - [x] Selection Sort
        - [x] Insertion Sort
        - [ ] Shell Sort
        - [ ] Merge Sort
