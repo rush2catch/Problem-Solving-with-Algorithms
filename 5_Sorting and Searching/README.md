@@ -7,6 +7,7 @@
      - [x] Bubble Sort
      - [x] Selection Sort
      - [x] Insertion Sort
-     - [ ] Shell Sort
+     - [x] Shell Sort
      - [ ] Merge Sort
      - [ ] Quick Sort
+     - [ ] Heap Sort
