@@ -25,6 +25,5 @@ def selection_sort(nums):
 	return nums
 
 test_list_1 = [54, 26, 93, 17, 77, 31, 44, 55, 20]
-#print(sorted(test_list_1))
-print(test_list_1)
+print(sorted(test_list_1))
 print(selection_sort(test_list_1))

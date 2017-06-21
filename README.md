@@ -19,6 +19,7 @@ Code Implementation and reading note of the book [Problem Solving with Algorithm
        - [ ] Shell Sort
        - [ ] Merge Sort
        - [ ] Quick Sort
+       - [ ] Heap Sort
     - [x] 5.2. Searching
        - [x] Sequential Search
        - [x] Binary Search
