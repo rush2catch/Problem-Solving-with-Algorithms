@@ -25,4 +25,10 @@ Code Implementation and reading note of the book [Problem Solving with Algorithm
        - [x] Binary Search
     - [x] 5.3. Hashing
  - [ ] 6. Trees
+     - [ ] Tree Basics
+     - [ ] Tree Traversal
+     - [ ] Binary Heaps
+     - [ ] Binary Search Tree
+     - [ ] Balanced Binary Search Tree
+     - [ ] AVL Tree
  - [ ] 7. Graphs
