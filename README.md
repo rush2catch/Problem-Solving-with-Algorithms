@@ -12,7 +12,7 @@ Code Implementation and reading note of the book [Problem Solving with Algorithm
      - [x] Linked List
  - [x] 4. Recursion
  - [ ] 5. Sorting and Searching
-    - [ ] 5.1. Sorting - _**`doing`**_
+    - [ ] 5.1. Sorting -
        - [x] Bubble Sort
        - [x] Selection Sort
        - [x] Insertion Sort
@@ -24,8 +24,8 @@ Code Implementation and reading note of the book [Problem Solving with Algorithm
        - [x] Sequential Search
        - [x] Binary Search
     - [x] 5.3. Hashing
- - [ ] 6. Trees
-     - [ ] Tree Basics
+ - [ ] 6. Trees _**`doing`**_
+     - [x] Tree Basics
      - [ ] Tree Traversal
      - [ ] Binary Heaps
      - [ ] Binary Search Tree
