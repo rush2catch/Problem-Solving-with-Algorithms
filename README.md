@@ -26,7 +26,7 @@ Code Implementation and reading note of the book [Problem Solving with Algorithm
     - [x] 5.3. Hashing
  - [ ] 6. Trees _**`doing`**_
      - [x] Tree Basics
-     - [ ] Tree Traversal
+     - [x] Tree Traversal
      - [ ] Binary Heaps
      - [ ] Binary Search Tree
      - [ ] Balanced Binary Search Tree
