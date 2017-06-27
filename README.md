@@ -27,7 +27,8 @@ Code Implementation and reading note of the book [Problem Solving with Algorithm
  - [ ] 6. Trees _**`doing`**_
      - [x] Tree Basics
      - [x] Tree Traversal
-     - [ ] Binary Heaps
+     - [ ] Invert a binary tree
+     - [ ] Binary Heap
      - [ ] Binary Search Tree
      - [ ] Balanced Binary Search Tree
      - [ ] AVL Tree
