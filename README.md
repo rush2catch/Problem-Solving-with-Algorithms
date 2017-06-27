@@ -3,7 +3,12 @@ Code Implementation and reading note of the book [Problem Solving with Algorithm
 `To do list`
 
  - [ ] 1. Introduction
+     - [ ] Built-in atomic data types
+     - [ ] Built-in collection data types
+     - [ ] String formatting
  - [ ] 2. Algorithm Analysis
+     - [ ] Big-O notation
+     - [ ] Performance of Python data structures
  - [x] 3. Basic Data Structures
      - [x] Stacks
      - [x] Queues
@@ -33,3 +38,12 @@ Code Implementation and reading note of the book [Problem Solving with Algorithm
      - [ ] Balanced Binary Search Tree
      - [ ] AVL Tree
  - [ ] 7. Graphs
+     - [ ] Graph basics
+     - [ ] Adjacency Matrix
+     - [ ] Adjacency List
+     - [ ] BFS
+     - [ ] DFS
+     - [ ] Shortest Path Problems
+         - [ ] Dijkstra's Algorithm
+         - [ ] Prim's Spanning Tree
+
