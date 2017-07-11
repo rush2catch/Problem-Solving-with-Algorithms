@@ -46,4 +46,9 @@ Code Implementation and reading note of the book [Problem Solving with Algorithm
      - [ ] Shortest Path Problems
          - [ ] Dijkstra's Algorithm
          - [ ] Prim's Spanning Tree
-
+ - [ ] 8. Algorithms
+     - [ ] Greedy
+     - [ ] Divide and Conquer
+     - [ ] Dynamic Programming
+     - [ ] Randomized Algorithms
+     - [ ] Back Tracking
